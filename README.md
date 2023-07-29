@@ -8,4 +8,4 @@
 
 ![Screenshot (16)](https://github.com/cpp-monk/Filmistaan/assets/76836563/7fd2c755-3f90-4d40-88fb-bee5991782be)
 
-![Screenshot (16)](https://github.com/cpp-monk/Filmistaan/assets/76836563/7fd2c755-3f90-4d40-88fb-bee5991782be)
+![Screenshot (19)](https://github.com/cpp-monk/Filmistaan/assets/76836563/4420809e-413e-496f-8e9c-5d92abc3ec39)
